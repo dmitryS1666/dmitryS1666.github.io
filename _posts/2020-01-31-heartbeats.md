@@ -1,3 +1,8 @@
+---
+title: Heartbeats
+date: 2020-01-31 00:00:00 Z
+---
+
 --- title: I believe every human has a finite number of heartbeats. I don't intend to waste any of mine. date: 2020-01-31 03:45:13 Z layout: post background: "/img/posts/05.jpg" ---
 
 Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.
