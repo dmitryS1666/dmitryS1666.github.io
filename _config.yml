@@ -2,7 +2,7 @@ title:              Med Blog
 email:              dsuschinsky@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/med-blog"
+baseurl:            ""
 url:                "https://dmitrys1666.github.io"
 
 # Social Profiles
